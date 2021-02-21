@@ -9,7 +9,6 @@ output: html_document
 If you can read this, I have probably managed to follow the instructions for the setup component.
 
 # EDA
-
 For this assignment, I am working with the "sizeRatings" dataset. In order to find out more information about the dataset, I am using the glimpse function, "sizeRatings %>% (glimpse)", as well as "?sizeRatings".
 The dataset deals with "subjective estimates of the size of the referents of 81 English concrete nouns, collected from 38 subjects".
 
